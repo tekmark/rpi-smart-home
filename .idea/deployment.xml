@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="rpi-3-devel">
+  <component name="PublishConfigData" autoUpload="Always" serverName="rpi-3-devel" uploadOnCheckin="649c60d9-0b3d-4df0-bb7a-2350333d2237">
     <serverData>
       <paths name="rpi-3-devel">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="rpi-3-devel" />
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
